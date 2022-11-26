@@ -162,7 +162,6 @@ nav {
     width: 55%;
     height: 50px;
     font-size: 15px;
-    font-weight: light;
     color: rgb(241, 241, 241);
     background:linear-gradient(#FF79DA,#9356DC);
     opacity: 0.9;
@@ -314,7 +313,6 @@ nav {
     right: 0;
     margin-top: 15px;
     margin-right: 10px;
-    font-weight: light;
     font-size: 13px;
     background-color: #99E2D0;
     border-radius: 3px;
@@ -370,7 +368,6 @@ footer {
 }
 .pied-ohmyfood {
     font-size: 20px;
-    font-weight: thin;
     padding-top: 20px;
     margin-bottom: 10px;
     font-family:'Shrikhand', cursive;

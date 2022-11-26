@@ -275,7 +275,6 @@ footer {
 }
 .pied-ohmyfood {
     font-size: 20px;
-    font-weight: thin;
     padding-top: 20px;
     margin-bottom: -10px;
     font-family:'Shrikhand', cursive;
@@ -329,7 +328,7 @@ font-family:'Shrikhand', cursive;
 .row {
     display: flex;
     align-items: center;
-    justify-content: row;
+    flex-direction: row;
 }
 .between {
     display: flex;
